@@ -2,7 +2,7 @@
 
 #@Hareesh
 
-#Performing CURD opertaion using Rest API.
+#Performing CURD opertaions using Rest API.
 
 #Implemented Select query for all columns & Select query for specific record
 
